@@ -9,7 +9,7 @@ We have a [mailing list](https://groups.google.com/forum/#!forum/scs-berlin) and
 ### Text-based <br /><br />
 
 **SuperCollider** is a platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound. It is free and open source software available for Windows, Mac OS X, and Linux.<br />
-[Learn](https://funprogramming.org) | [Download](https://supercollider.github.io/download)<br /><br />
+[Learn](https://funprogramming.org) (scroll down to SuperCollider) | [Download](https://supercollider.github.io/download)<br /><br />
 
 **ChucK** is a concurrent, strongly timed audio programming language for real-time synthesis, composition, and performance, which runs on Linux, Windows, macOS and iOS. It is designed to favor readability and flexibility for the programmer over other considerations such as raw performance.<br />
 [Learn](https://www.kadenze.com/courses/introduction-to-programming-for-musicians-and-digital-artists/info) | [Download](http://chuck.cs.princeton.edu/release)<br /><br />
