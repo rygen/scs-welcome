@@ -17,6 +17,9 @@ We have a [mailing list](https://groups.google.com/forum/#!forum/scs-berlin) and
 **Csound** is an audio programming language written in C. It has traditionally been used in a non-interactive score driven context, but nowadays it's mostly used in a real-time context. Csound can run on a host of different platforms including all major operating systems as well as Android and iOS. Csound is free and open source.<br />
 [Learn](http://write.flossmanuals.net/csound) | [Download](http://csound.github.io/download.html)<br /><br />
 
+**JUCE** is an open-source cross-platform C++ application framework, used for the development of desktop and mobile applications. It is used in particular for its GUI and plugins libraries. Most audio-related tasks are covered by the framework, *i.e.* it allows you to build VST, AU, RTAS and AAX format plugins with ease. Open source projects may use JUCE for free, commercial projects require a fee.<br />
+[Learn](https://www.juce.com/tutorials) | [Download](https://www.juce.com/get-juce)<br /><br />
+
 **Interested in live coding**?<br />
 Any of the above will work, but you might also want to have a look at [TidalCycles](https://tidalcycles.org) or [Overtone](https://overtone.github.io)<br /><br />
 
