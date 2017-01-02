@@ -31,3 +31,7 @@ The two below are the ones most used for audio. They have a common origin and sh
 
 **Max/MSP** is developed and maintained by Cycling '74 and has a large user base of programmers unaffiliated with the company who enhance the software with commercial and non-commercial extensions to the program. It has a sleek user interface and runs on Windows and macOS. It can be acquired in 3  different ways: permanent license, monthly or annual subscription.<br />
 [Learn](https://www.youtube.com/user/dude837/playlists) | [Download](https://cycling74.com/shop)<br /><br />
+
+### Need help? <br /><br />
+
+If you've downloaded one of the options above and are having problems setting it up, we might be able to help you, provided that there's someone around with expertise in that language/environment. Let us know in the **first 20 minutes** of a session. <br /><br />
