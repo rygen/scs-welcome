@@ -4,7 +4,7 @@
 
 This guide puts together information about programming languages commonly used for sonic coding endeavours.<br />
 The descriptions were adapted from Wikipedia, Floss Manuals and/or each language's official website.<br />
-We have a [mailing list](https://groups.google.com/forum/#!forum/scs-berlin) and we're also on [Twitter](https://twitter.com/scsBLN) and [Facebook](https://facebook.com/groups/scsbln).<br /><br />
+We have a [chat](https://chat.funprogramming.org/scsbln/) (ask [aBe](https://hamoid.com/contact/) for an invite) and we're also on [Twitter](https://twitter.com/scsBLN) and [Facebook](https://facebook.com/groups/scsbln).<br /><br />
 
 ### Text-based <br /><br />
 
